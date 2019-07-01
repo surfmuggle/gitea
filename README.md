@@ -16,6 +16,9 @@
 
 The goal of this project is to make the easiest, fastest, and most
 painless way of setting up a self-hosted Git service.
+
+Gitea supports issue tracking
+
 Using Go, this can be done with an independent binary distribution across
 **all platforms** which Go supports, including Linux, macOS, and Windows
 on x86, amd64, ARM and PowerPC architectures.
